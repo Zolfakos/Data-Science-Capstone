@@ -1,3 +1,3 @@
 # Data-Science-Capstone
 Final assignment for data science certification.
-Apply all knownledge acquired
+Apply all knownledge acquired.
